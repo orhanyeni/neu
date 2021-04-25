@@ -1,2 +1,2 @@
-# neu
-new python project
+# btc telegram botu
+bot denemesi
